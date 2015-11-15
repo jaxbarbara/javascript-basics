@@ -1,3 +1,3 @@
 /*
-$("#main").append([Jaclyn Stephenson]);
+$("#main").append(["Jaclyn Stephenson"]);
  */
